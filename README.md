@@ -15,5 +15,5 @@ Collaboration because I only started Mac Programming 3 years ago, it was never f
 
 **This is where you come in:** Doing any of the following would greatly help to ensure the project's success, and bring joy to millions of documentation deprived developers this holiday season:
 
-**Contribute**: I can't stress enough how vital it is that experienced eyes review these Documentation changes. But even if you're not an experienced macOS developer, there is plenty of work you can do to help: from taking updated screenshots, to checking grammar, or writing tests, *Any Pull Requests Are Greatly Appreciated!*
-**Share**: If you can't contribute, then please considerSharing this project; the more the merrier!
++ **Contribute**: I can't stress enough how vital it is that experienced eyes review these Documentation changes. But even if you're not an experienced macOS developer, there is plenty of work you can do to help: from taking updated screenshots, to checking grammar, or writing tests, *Any Pull Requests Are Greatly Appreciated!*
++ **Share**: If you can't contribute, then please considerSharing this project; the more the merrier!
